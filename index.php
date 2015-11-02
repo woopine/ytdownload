@@ -1,6 +1,6 @@
 <?php
 /*==========================*\
-# Created by Sasha Puzikov 
+# Created by Sasha Puzikov1 
 \*==========================*/
 ?>
 
