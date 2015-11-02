@@ -1,10 +1,14 @@
 <?php
 /*==========================*\
 <<<<<<< HEAD
-# Created by dddasdsdsdSasha Puzikov122 tettess
+<<<<<<< HEAD
+# Created by dddasdsdsdSasha Puzikov122 tettess1111
 =======
 # Created by Sasha Puzikov22 1
 >>>>>>> refs/remotes/origin/yy
+=======
+# Created by Sasha Puzikov1221
+>>>>>>> refs/remotes/origin/gg
 \*==========================*/
 ?>
 
