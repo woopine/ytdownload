@@ -1,10 +1,6 @@
 <?php
 /*==========================*\
-<<<<<<< HEAD
-# Created by Sasha Puzikov122
-=======
-# Created by Sasha Puzikov22 
->>>>>>> refs/remotes/origin/yy
+# Created by Sasha Puzikov1221
 \*==========================*/
 ?>
 
